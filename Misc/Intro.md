@@ -1,0 +1,8 @@
+I would say I have a good understanding of Java and Python, as well as some
+experience with HTML, PHP, and interfacing with a SQL database with PHP. I also
+have a basic understanding of C++ which I intend to improve on with a major personal project I intend to work on this semester. I have been writing Python and Java code since first being introduced to it in a high school class. I started my university experience by attending UB as a student in the Computer Sciences and Engineering department. I took the basic starting classes that are probably equivalent to the first two years of SUNY NP’s curriculum for CS students (building group GUI projects based on fractal equations, learning the “basics” of Java syntax, etc). When I came back to the NP area, I made some small programs for friends; DnD monster stat generator, a small FPS in Unreal, etc. At New Paltz, notable classes I have taken include Software Engineering (majority of my php/html experience) and I created some python programs for my Discrete Mathematics class. I have found picking up new languages is not terribly tough for me, and if I get interested in what I’m working on can spend hours at a time on a single project. The fields I am most interested in are cyber security and database management, though I think making games can be fun. 
+
+I have very little prior experience with JS and none with specifically node JS. I
+was hoping from the time I spend in this class, I am able to familiarize myself with them to the point I can consider myself at least to have basic experience with them. Other than that I hope to maybe meet some similarly driven classmates that I may be able to connect with and work on projects with in the future.
+
+![Image](Capture.PNG "Me")
